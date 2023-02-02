@@ -1,0 +1,8 @@
+Screen?.java
+!Screen10.java
+?.tmp
+config/config.*
+data1/config/values.dat
+data2/*
+!data2/data01.csv
+
